@@ -3,7 +3,9 @@ This is a simple program to Analyze a list of student with unique names and thei
 
 I have three functions.
 First one can be used to extract and print all the unique grades from the list of student scores.
+
 Second Identifies and prints the names of the top three students with the highest scores.
+
 With the third function,you can dentify and print the names of students who scored below 51, along with their scores.
 
 _________________________
